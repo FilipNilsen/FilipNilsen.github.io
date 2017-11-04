@@ -5,3 +5,7 @@ body {
 margin-right: 25px;
     margin-left: 25px;
 }
+#nav {
+border-bottom: 6px solid red;
+background-color: lightgrey;
+}
