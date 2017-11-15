@@ -8,15 +8,13 @@ margin-right: 25px;
 #nav {
 border-bottom: 6px solid blue;
 background-color: lightgrey;
-font-size: xx-large;
 }
 body {
-font-family: 'Ubuntu';
-}
-img {
-    max-width: 100%;
-    height: auto;
+    font-family: 'Press Start 2P', cursive;
 }
 body {
-    font-size: large;
+font-size: small;
+}
+#dis {
+border-style: double;
 }
