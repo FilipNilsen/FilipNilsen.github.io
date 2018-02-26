@@ -1,22 +1,29 @@
 body {
-background-image: url("woodwall.jpg");
+/*background-image: url("background/Pastell.bmp");*/
+background-image: url("background/Upstream 16.bmp");
+/*background-color: black;*/
 }
 body {
 margin-right: 25px;
 margin-left: 25px;
 }
-#nav {
-border-bottom: 6px solid blue;
-background-color: lightgrey;
-}
 body {
-    font-family: 'Press Start 2P', cursive;
+font-family: 'Press Start 2P', cursive;
 }
 body {
 font-size: small;
+color: white;
 }
-#dis {
-border-style: double;
+a:link{
+color: white;
+text-decoration: none;
+}
+a:visited{
+color: white;
+text-decoration: none;
+}
+a:hover{
+color: blue;
 }
 img {
 max-width: 100%;
