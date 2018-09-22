@@ -1,43 +1,40 @@
 body{
-background-image: url("backgrounds/Upstream 16.bmp");
+	background-image: url("backgrounds/Upstream 16.bmp");
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 100px;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+	line-height: 140%;
+	font-size: 120%;
 }
-body{
-margin-right: 25px;
-margin-left: 25px;
+div.home {
+	font-size: 125%;
+	line-height: 1%;
 }
-body{
-color: white;
+div.home hr{
+	color: blue;
 }
 a:link{
-color: white;
-text-decoration: none;
+	color: white;
+	text-decoration: none;
 }
 a:visited{
-color: white;
-text-decoration: none;
+	color: white;
+	text-decoration: none;
 }
 a:hover{
-color: blue;
-text-decoration: none;
+	color: blue;
+	text-decoration: none;
 }
-body {
-font-family: 'Press Start 2P', cursive;
-}
-body {
-font-size: small;
-color: white;
-}
-/*
-body{
-font-family: 'Ubuntu';
-}
-*/
 /*
 img{
 max-width: 100%;
 height: auto;
 }
 */
+/*
 body{
 font-size: large;
 }
+*/
