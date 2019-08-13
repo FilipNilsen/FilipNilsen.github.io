@@ -8,25 +8,54 @@ body{
 	line-height: 140%;
 	font-size: 120%;
 }
-div.home {
+
+
+a:link{
+	color: #8789CE;
+}
+a:visited{
+	color: #C691CE;
+}
+a:hover{
+	color: red;
+}
+
+
+.home {
 	font-size: 125%;
 	line-height: 1%;
 }
-div.home hr{
+.home hr{
 	color: blue;
 }
-a:link{
+.home a:link{
 	color: white;
 	text-decoration: none;
 }
-a:visited{
+.home a:visited{
 	color: white;
 	text-decoration: none;
 }
-a:hover{
+.home a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+
+.nav a:link{
+	color: white;
+	text-decoration: none;
+}
+.nav a:visited{
+	color: white;
+	text-decoration: none;
+}
+.nav a:hover{
 	color: blue;
 	text-decoration: none;
 }
+
+
 /*
 img{
 max-width: 100%;
