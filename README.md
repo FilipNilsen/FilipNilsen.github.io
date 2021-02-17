@@ -1,3 +1,2 @@
-# FilipNilsen.github.io
-A website i have for random and unrelated stuff...\
-Find me at Reddit [u/Filla_Nilla](https://www.reddit.com/u/Filla_Nilla)
+# Backup of old website
+Because i suck at git i accidentially merged my new reorganized website into this repository and it is now ruined.
