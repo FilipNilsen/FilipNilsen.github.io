@@ -1,14 +1,13 @@
 body{
 	background-image: url("backgrounds/Upstream 16.bmp");
-	margin-right: 25px;
-	margin-left: 25px;
-	margin-bottom: 100px;
+	margin-right: 0.25vw;
+	margin-left: 0.25vw;
+	margin-bottom: 10vh;
 	color: white;
 	font-family: 'Ubuntu', sans-serif;
 	line-height: 140%;
 	font-size: 120%;
 }
-
 
 a:link{
 	color: #8789CE;
@@ -20,48 +19,49 @@ a:hover{
 	color: red;
 }
 
-
-.home {
+#titlebar {
 	font-size: 125%;
 	line-height: 1%;
 }
-.home hr{
+
+#titlebar hr{
 	color: blue;
 }
-.home a:link{
+
+#titlebar a:link{
 	color: white;
 	text-decoration: none;
 }
-.home a:visited{
+
+#titlebar a:visited{
 	color: white;
 	text-decoration: none;
 }
-.home a:hover{
+
+#titlebar a:hover{
 	color: white;
 	text-decoration: none;
 }
 
 
-.nav a:link{
+#nav a:link{
 	color: white;
 	text-decoration: none;
 }
-.nav a:visited{
+#nav a:visited{
 	color: white;
 	text-decoration: none;
 }
-.nav a:hover{
+#nav a:hover{
 	color: blue;
 	text-decoration: none;
 }
 
-
-/*
 img{
-max-width: 100%;
-height: auto;
+	max-width: 100%;
+	height: auto;
 }
-*/
+
 /*
 body{
 font-size: large;
